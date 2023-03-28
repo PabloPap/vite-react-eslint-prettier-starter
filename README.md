@@ -11,7 +11,7 @@ Tiged is a community driven fork of degit (https://github.com/tiged/tiged/blob/m
 Create a new folder for the project.
 
 ```bash
-tiged user/repo my-new-project
+tiged PabloPap/vite-react-eslint-prettier-starter my-new-project
 ```
 
 ## License
